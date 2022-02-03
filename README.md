@@ -1,5 +1,5 @@
 # CloudComputing-Milestone1
-Group 12
+Group 12\
 Ashwin Shanmugam - 100700236\
 Faazil Shaikh - 100707829\
 Evans Mosomi - 100719552\
